@@ -1,6 +1,8 @@
-// const { register } = require('../controllers/user.controller');
-// const router = require('express').Router();
+const { getProfile, searchBlood } = require('../controllers/user.controller');
+const authMiddleware = require('../middleware/authMiddleware');
+const router = require('express').Router();
 
-// router.post('/register', register)
+router.get('/profile', authMiddleware, getProfile)
+router.get('/search', searchBlood)
 
-// module.exports = router;
+module.exports = router;
