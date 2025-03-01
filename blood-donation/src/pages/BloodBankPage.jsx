@@ -7,7 +7,7 @@ function BloodBankPage() {
     <div>
       <div><NavbarSection/></div>
       <div>
-        Blood Bank Across Indis
+        Blood Bank in India
       </div>
       <div><FooterSection/></div>
     </div>

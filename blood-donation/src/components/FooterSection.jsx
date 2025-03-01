@@ -18,7 +18,7 @@ function FooterSection() {
         <div>
           <h3 className="text-xl font-semibold text-red-500 mb-3">Quick Links</h3>
           <ul className="text-gray-400 space-y-2">
-            {["Find Donor", "Blood Bank", "About Us", "Images", "Contact"].map((item, index) => (
+            {["Find Donor", "Donate Blood", "Blood Bank", "About Us", "Contact"].map((item, index) => (
               <li
                 key={index}
                 className="cursor-pointer transition-all duration-300 hover:text-red-500"
