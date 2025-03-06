@@ -22,7 +22,7 @@ Blood Donation Finder is a web application built using the **MERN stack** (Mongo
 ## 📸 Screenshots
 
 ### 🔍 Search for Donors
-![Search Donors](https://i.postimg.cc/vTcbJcXv/Blood-Donation-user-search.png)
+![Search Donors](https://i.postimg.cc/G2B3WPWP/Blood-Donation-user-search.png)
 
 ### 📝 Register as a Donor
 ![Register](https://i.postimg.cc/nrKSdghX/Blood-Donation-Register.png)
