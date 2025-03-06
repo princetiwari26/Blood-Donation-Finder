@@ -180,12 +180,12 @@ function RegisterPage() {
                 Register
               </button>
             </form>
+            <div className="text-center my-4">
+              <span className="text-gray-600">Already have an account? </span>
+              <Link to="/login" className="text-red-600 hover:underline">Login</Link>
+            </div>
           </div>
 
-          <div className="text-center my-4">
-            <span className="text-gray-600">Already have an account? </span>
-            <Link to="/login" className="text-red-600 hover:underline">Login</Link>
-          </div>
 
           <div className="bg-red-50 p-6 rounded-md shadow-md flex flex-col justify-center">
             <h3 className="text-2xl font-bold text-red-600 text-center mb-4">
@@ -199,7 +199,7 @@ function RegisterPage() {
             </p>
           </div>
 
-          
+
         </div>
       </div>
 
