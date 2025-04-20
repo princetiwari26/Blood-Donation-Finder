@@ -45,13 +45,6 @@ function LoginPage() {
               - Connect with those in need. <br />
               - Be a part of a life-saving community.
             </p>
-            <div className="text-center mt-4">
-              <img
-                src="/images/login-image.png"
-                alt="Login Illustration"
-                className="w-32 mx-auto"
-              />
-            </div>
           </div>
 
           <div className="flex flex-col items-center justify-center">

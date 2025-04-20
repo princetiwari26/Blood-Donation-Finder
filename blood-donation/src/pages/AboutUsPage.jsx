@@ -17,12 +17,12 @@ function AboutUsPage() {
         {/* Founder Section */}
         <div className="bg-white p-6 rounded-lg shadow-lg flex flex-col md:flex-row items-center mb-10">
           <img
-            src={founderImage}
-            alt="Founder"
+            src=""
+            alt="Founder Image"
             className="w-32 h-32 rounded-full shadow-lg mb-4 md:mb-0 md:mr-6"
           />
           <div>
-            <h3 className="text-xl font-bold text-gray-800">Founder Name</h3>
+            <h3 className="text-xl font-bold text-gray-800">John Doe</h3>
             <p className="text-gray-600">
               Our founder, <span className="font-semibold">John Doe</span>, started this initiative to create an easy and accessible platform for blood donation, ensuring that every life in need gets timely help.
             </p>
